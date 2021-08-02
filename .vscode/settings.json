@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "iterator": "cpp",
+        "optional": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__string": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp"
+    }
+}
